@@ -1,0 +1,101 @@
+{
+    "ChatGPT": {
+        "Category": [
+            {
+                "name": "Trip planning",
+                "category_data": [
+                    {
+                        "title": "Best Location",
+                        "description": "What are the best travel destinations for my budget and interests?",
+                        "question": "What are the best travel destinations for my budget and interests?"
+                    },
+                    {
+                        "title": "Personalized Travel",
+                        "description": "How can I create a personalized travel itinerary that fits my schedule and preferences?",
+                        "question": "How can I create a personalized travel itinerary that fits my schedule and preferences?"
+                    },
+                    {
+                        "title": "Save Money",
+                        "description": "How can I save money on my trip through deals and discounts?",
+                        "question": "How can I save money on my trip through deals and discounts?"
+                    },
+                    {
+                        "title": "Booking",
+                        "description": "What are the top attractions, restaurants, and events in my destination, and how can I book reservations in advance?",
+                        "question": "What are the top attractions, restaurants, and events in my destination, and how can I book reservations in advance?"
+                    },
+                    {
+                        "title": "Connect",
+                        "description": "How can I stay connected with my travel companions during the trip?",
+                        "question": "How can I stay connected with my travel companions during the trip?"
+                    }
+                ]
+            },
+            {
+                "name": "Flight Tracking",
+                "category_data": [
+                    {
+                        "title": "Cheapest Flights",
+                        "description": "What are the cheapest flights available to my destination?",
+                        "question": "What are the cheapest flights available to my destination?"
+                    },
+                    {
+                        "title": "Airport Services",
+                        "description": "What are the airport facilities and services available at my departure and arrival airports?",
+                        "question": "What are the airport facilities and services available at my departure and arrival airports?"
+                    },
+                    {
+                        "title": "Alternative Flights",
+                        "description": "How can I find alternative flights if my original flight is cancelled or delayed?",
+                        "question": "How can I find alternative flights if my original flight is cancelled or delayed?"
+                    }
+                ]
+            },
+            {
+                "name": "Itinerary Sharing",
+                "category_data": [
+                    {
+                        "title": "Collaborate",
+                        "description": "How can I collaborate with my travel companions to plan and organize our trip?",
+                        "question": "How can I collaborate with my travel companions to plan and organize our trip?"
+                    },
+                    {
+                        "title": "Real-time Updates",
+                        "description": "How can I get real-time updates on my travel companions' travel plans and changes to our itinerary?",
+                        "question": "How can I get real-time updates on my travel companions' travel plans and changes to our itinerary?"
+                    },
+                    {
+                        "title": "Offline Connect",
+                        "description": "How can I access my itinerary and collaborate with my travel companions offline, in case I don't have internet access?",
+                        "question": "How can I access my itinerary and collaborate with my travel companions offline, in case I don't have internet access?"
+                    },
+                    {
+                        "title": "Last Update",
+                        "description": "How can I ensure that everyone in my travel group is up-to-date on the latest travel information and changes to our itinerary?",
+                        "question": "How can I ensure that everyone in my travel group is up-to-date on the latest travel information and changes to our itinerary?"
+                    }
+                ]
+            },
+            {
+                "name": "Travel Insurance",
+                "category_data": [{
+                    "title": "Insurance Options",
+                    "description": "What are the travel insurance options available for my trip, and what do they cover?",
+                    "question": "What are the travel insurance options available for my trip, and what do they cover?"
+                }, {
+                    "title": "Security Risks",
+                    "description": "What are the safety and security risks for my destination, and how can I minimize them?",
+                    "question": "What are the safety and security risks for my destination, and how can I minimize them?"
+                }, {
+                    "title": "Track Information",
+                    "description": "How can I keep track of my important travel documents and information, such as passports, visas, and insurance policies?",
+                    "question": "How can I keep track of my important travel documents and information, such as passports, visas, and insurance policies?"
+                }, {
+                    "title": "Report Problem",
+                    "description": "How can I report any safety or security concerns or incidents to the appropriate authorities or my travel insurance provider?",
+                    "question": "How can I report any safety or security concerns or incidents to the appropriate authorities or my travel insurance provider?"
+                }]
+            }
+        ]
+    }
+}
