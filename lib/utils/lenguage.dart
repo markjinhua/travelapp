@@ -42,7 +42,7 @@ class LocalString extends Translations {
           'historyEmpty': 'History Is Empty',
           'pleaseEnterText': 'Please Enter Text',
           'continueChat': 'Continue To Chat',
-          'startTrail': 'Start free trial  and plan',
+          'startTrail': 'Start Plan',
           'askSomething': 'Happy to see you today. How can I help you?',
           'premiumPrice1': 'USD 9.99/mon',
           'premiumPrice2': 'USD 2.99/week',
