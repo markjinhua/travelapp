@@ -1,7 +1,6 @@
 import 'dart:io';
 
 import 'package:chat_gpt/screens/home_pages/home_screen.dart';
-import 'package:chat_gpt/screens/onboarding_pages/on_boarding_screen.dart';
 import 'package:chat_gpt/screens/search_images_pages/search_images_screen.dart';
 import 'package:chat_gpt/screens/splash_screen_pages/splash_screen.dart';
 import 'package:chat_gpt/theme/app_theme.dart';
@@ -19,7 +18,9 @@ import 'main_controller.dart';
 AppOpenAd? myAppOpenAd;
 loadAppOpenAd() {
   AppOpenAd.load(
-      adUnitId: Platform.isAndroid ? appOpenAndroidId : appOpenIosId,  //Your ad Id from admob
+      adUnitId: Platform.isAndroid
+          ? appOpenAndroidId
+          : appOpenIosId, //Your ad Id from admob
       request: const AdRequest(),
       adLoadCallback: AppOpenAdLoadCallback(
           onAdLoaded: (ad) {
@@ -38,7 +39,6 @@ void main() async {
   runApp(const MyApp());
 }
 
-
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
@@ -52,14 +52,10 @@ class MyApp extends StatelessWidget {
       theme: AppTheme.light,
       darkTheme: AppTheme.dark,
       themeMode: isDarkMode == true
-          ?
-      isLightMode == true
-          ?
-      ThemeMode.light
-          :
-      ThemeMode.dark
-          :
-      ThemeServices().theme,
+          ? isLightMode == true
+              ? ThemeMode.light
+              : ThemeMode.dark
+          : ThemeServices().theme,
       home: const SplashScreen(),
     );
   }

@@ -600,7 +600,9 @@ class _ChatScreenState extends State<ChatScreen> {
       data = answer;
       setState(() {});
     }
-    return data;
+    String outdata =
+        data.replaceAll('As an AI language model', 'By our suggest');
+    return outdata;
   }
 
   void sendMessageToAPI(String question) async {

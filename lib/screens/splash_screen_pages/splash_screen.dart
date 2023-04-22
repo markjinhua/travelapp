@@ -9,7 +9,6 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../../constant/app_icon.dart';
 import '../../main.dart';
 import '../../utils/app_keys.dart';
-import '../onboarding_pages/on_boarding_screen.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({Key? key}) : super(key: key);
