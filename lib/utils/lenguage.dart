@@ -193,7 +193,7 @@ class LocalString extends Translations {
           'voiceIsOff': 'Głos jest wyłączony',
           'offer1': '1 Miesiąc',
           'offer2': '1 Tydzień',
-          'offer3': '12 Miesiąc',
+          'offer3': '12 Miesięcy',
         },
         'ity_ITY': {
           'setting': 'IMPOSTAZIONI',

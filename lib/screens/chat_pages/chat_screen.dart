@@ -600,9 +600,14 @@ class _ChatScreenState extends State<ChatScreen> {
       data = answer;
       setState(() {});
     }
-    String outdata =
-        data.replaceAll('As an AI language model', 'By our suggest');
-    return outdata;
+    String outdata1 = data.replaceAll("As an AI language model, ", "");
+    String outdata2 =
+        outdata1.replaceAll("I don't have personal experience with", "For");
+    String outdata3 =
+        outdata2.replaceAll("I do not have personal experience with", "For");
+    String outdatafin =
+        outdata3.replaceAll("but here are some", "Here are some");
+    return outdatafin;
   }
 
   void sendMessageToAPI(String question) async {
