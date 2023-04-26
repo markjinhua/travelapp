@@ -1,0 +1,101 @@
+{
+    "ChatGPT": {
+        "Category": [
+            {
+                "name": "Formation et comportement",
+                "category_data": [
+                    {
+                        "title": "Arrête de sauter",
+                        "description": "Comment dresser mon chien pour qu'il arrête de sauter sur les gens ?",
+                        "question": "Comment dresser mon chien pour qu'il arrête de sauter sur les gens ?"
+                    },
+                    {
+                        "title": "Commandes de base",
+                        "description": "Quelle est la meilleure façon d'enseigner à mon chien les commandes de base comme s'asseoir, rester et venir?",
+                        "question": "Quelle est la meilleure façon d'enseigner à mon chien les commandes de base comme s'asseoir, rester et venir?"
+                    },
+                    {
+                        "title": "Aboyer excessivement",
+                        "description": "Comment puis-je empêcher mon chien d'aboyer excessivement ?",
+                        "question": "Comment puis-je empêcher mon chien d'aboyer excessivement ?"
+                    },
+                    {
+                        "title": "Train de pot",
+                        "description": "Quels sont les moyens efficaces d'éduquer mon chien à la propreté?",
+                        "question": "Quels sont les moyens efficaces d'éduquer mon chien à la propreté?"
+                    },
+                    {
+                        "title": "Ne pas mendier",
+                        "description": "Quelle est la meilleure façon d'apprendre à mon chien à ne pas mendier de la nourriture à table ?",
+                        "question": "Quelle est la meilleure façon d'apprendre à mon chien à ne pas mendier de la nourriture à table ?"
+                    }
+                ]
+            },
+            {
+                "name": "Santé et bien-être",
+                "category_data": [
+                    {
+                        "title": "Chien en bonne santé",
+                        "description": "Quels sont les signes d'un chien en bonne santé et comment puis-je savoir si mon chien est malade ?",
+                        "question": "Quels sont les signes d'un chien en bonne santé et comment puis-je savoir si mon chien est malade ?"
+                    },
+                    {
+                        "title": "Problèmes de santé",
+                        "description": "Quels sont les problèmes de santé courants qui affectent les chiens et comment puis-je les prévenir ou les traiter ?",
+                        "question": "Quels sont les problèmes de santé courants qui affectent les chiens et comment puis-je les prévenir ou les traiter ?"
+                    },
+                    {
+                        "title": "en surpoids",
+                        "description": "Comment puis-je savoir si mon chien est en surpoids et que puis-je faire pour l'aider à perdre du poids ?",
+                        "question": "Comment puis-je savoir si mon chien est en surpoids et que puis-je faire pour l'aider à perdre du poids ?"
+                    }
+                ]
+            },
+            {
+                "name": "Voyage et Aventure",
+                "category_data": [
+                    {
+                        "title": "Longue route",
+                        "description": "Comment préparer mon chien pour un long voyage en voiture ?",
+                        "question": "Comment préparer mon chien pour un long voyage en voiture ?"
+                    },
+                    {
+                        "title": "Coffre-fort pour chien",
+                        "description": "Comment protéger mon chien en randonnée ou en camping ?",
+                        "question": "Comment protéger mon chien en randonnée ou en camping ?"
+                    },
+                    {
+                        "title": "Meilleur emplacement",
+                        "description": "Quelles sont les meilleures attractions acceptant les chiens à visiter ?",
+                        "question": "Quelles sont les meilleures attractions acceptant les chiens à visiter ?"
+                    },
+                    {
+                        "title": "Meilleur extérieur",
+                        "description": "Quelles sont les meilleures activités de plein air à faire avec mon chien ?",
+                        "question": "Quelles sont les meilleures activités de plein air à faire avec mon chien ?"
+                    }
+                ]
+            },
+            {
+                "name": "Sauvetage et adoption",
+                "category_data": [{
+                    "title": "Envisagez d'adopter",
+                    "description": "Que dois-je considérer avant d'adopter un chien ?",
+                    "question": "Que dois-je considérer avant d'adopter un chien ?"
+                }, {
+                    "title": "Refuge animalier",
+                    "description": "Quelles questions dois-je poser au refuge ou à l'organisme de secours pour animaux avant d'adopter un chien ?",
+                    "question": "Quelles questions dois-je poser au refuge ou à l'organisme de secours pour animaux avant d'adopter un chien ?"
+                }, {
+                    "title": "Accueil Préparer",
+                    "description": "Comment puis-je préparer ma maison pour un chien nouvellement adopté ?",
+                    "question": "Comment puis-je préparer ma maison pour un chien nouvellement adopté ?"
+                }, {
+                    "title": "Animal de dos",
+                    "description": "Comment puis-je redonner aux refuges pour animaux et aux organismes de sauvetage de ma communauté?",
+                    "question": "Comment puis-je redonner aux refuges pour animaux et aux organismes de sauvetage de ma communauté?"
+                }]
+            }
+        ]
+    }
+}

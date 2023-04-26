@@ -1,0 +1,101 @@
+{
+    "ChatGPT": {
+        "Category": [
+            {
+                "name": "Ausbildung und Verhalten",
+                "category_data": [
+                    {
+                        "title": "Hör auf zu springen",
+                        "description": "Wie kann ich meinem Hund beibringen, nicht mehr auf Menschen zu springen?",
+                        "question": "Wie kann ich meinem Hund beibringen, nicht mehr auf Menschen zu springen?"
+                    },
+                    {
+                        "title": "Grundlegende Befehle",
+                        "description": "Wie bringe ich meinem Hund am besten die Grundkommandos wie Sitzen, Bleiben und Kommen bei?",
+                        "question": "Wie bringe ich meinem Hund am besten die Grundkommandos wie Sitzen, Bleiben und Kommen bei?"
+                    },
+                    {
+                        "title": "Übermäßiges Bellen",
+                        "description": "Wie kann ich verhindern, dass mein Hund übermäßig bellt?",
+                        "question": "Wie kann ich verhindern, dass mein Hund übermäßig bellt?"
+                    },
+                    {
+                        "title": "Töpfchen-Zug",
+                        "description": "Was sind einige effektive Möglichkeiten, meinen Hund auf Töpfchen zu trainieren?",
+                        "question": "Was sind einige effektive Möglichkeiten, meinen Hund auf Töpfchen zu trainieren?"
+                    },
+                    {
+                        "title": "Nicht betteln",
+                        "description": "Wie kann ich meinem Hund am besten beibringen, nicht am Tisch um Futter zu betteln?",
+                        "question": "Wie kann ich meinem Hund am besten beibringen, nicht am Tisch um Futter zu betteln?"
+                    }
+                ]
+            },
+            {
+                "name": "Gesundheit und Wellness",
+                "category_data": [
+                    {
+                        "title": "Gesunder Hund",
+                        "description": "Was sind die Anzeichen für einen gesunden Hund und wie erkenne ich, ob mein Hund krank ist?",
+                        "question": "Was sind die Anzeichen für einen gesunden Hund und wie erkenne ich, ob mein Hund krank ist?"
+                    },
+                    {
+                        "title": "Gesundheitsprobleme",
+                        "description": "Was sind einige häufige Gesundheitsprobleme, die Hunde betreffen, und wie kann ich sie verhindern oder behandeln?",
+                        "question": "Was sind einige häufige Gesundheitsprobleme, die Hunde betreffen, und wie kann ich sie verhindern oder behandeln?"
+                    },
+                    {
+                        "title": "Übergewicht",
+                        "description": "Woran erkenne ich Übergewicht bei meinem Hund und was kann ich tun, um ihm beim Abnehmen zu helfen?",
+                        "question": "Woran erkenne ich Übergewicht bei meinem Hund und was kann ich tun, um ihm beim Abnehmen zu helfen?"
+                    }
+                ]
+            },
+            {
+                "name": "Reisen und Abenteuer",
+                "category_data": [
+                    {
+                        "title": "Lange Straße",
+                        "description": "Wie bereite ich meinen Hund auf eine lange Autofahrt vor?",
+                        "question": "Wie bereite ich meinen Hund auf eine lange Autofahrt vor?"
+                    },
+                    {
+                        "title": "Hund sicher",
+                        "description": "Wie schütze ich meinen Hund beim Wandern oder Campen?",
+                        "question": "Wie schütze ich meinen Hund beim Wandern oder Campen?"
+                    },
+                    {
+                        "title": "Beste Lage",
+                        "description": "Was sind die besten hundefreundlichen Attraktionen, die man besuchen sollte?",
+                        "question": "Was sind die besten hundefreundlichen Attraktionen, die man besuchen sollte?"
+                    },
+                    {
+                        "title": "Am besten im Freien",
+                        "description": "Was sind die besten Outdoor-Aktivitäten für meinen Hund?",
+                        "question": "Was sind die besten Outdoor-Aktivitäten für meinen Hund?"
+                    }
+                ]
+            },
+            {
+                "name": "Rettung und Adoption",
+                "category_data": [{
+                    "title": "Erwägen Sie eine Adoption",
+                    "description": "Was sollte ich beachten, bevor ich einen Hund adoptiere?",
+                    "question": "Was sollte ich beachten, bevor ich einen Hund adoptiere?"
+                }, {
+                    "title": "Tierheim",
+                    "description": "Welche Fragen sollte ich dem Tierheim oder der Rettungsorganisation stellen, bevor ich einen Hund adoptiere?",
+                    "question": "Welche Fragen sollte ich dem Tierheim oder der Rettungsorganisation stellen, bevor ich einen Hund adoptiere?"
+                }, {
+                    "title": "Startseite Vorbereiten",
+                    "description": "Wie kann ich mein Zuhause für einen neu adoptierten Hund vorbereiten?",
+                    "question": "Wie kann ich mein Zuhause für einen neu adoptierten Hund vorbereiten?"
+                }, {
+                    "title": "Zurück Tier",
+                    "description": "Wie kann ich Tierheimen und Rettungsorganisationen in meiner Gemeinde etwas zurückgeben?",
+                    "question": "Wie kann ich Tierheimen und Rettungsorganisationen in meiner Gemeinde etwas zurückgeben?"
+                }]
+            }
+        ]
+    }
+}

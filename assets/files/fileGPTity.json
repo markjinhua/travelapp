@@ -1,0 +1,101 @@
+{
+    "ChatGPT": {
+        "Category": [
+            {
+                "name": "Allenamento e comportamento",
+                "category_data": [
+                    {
+                        "title": "Smettila di saltare",
+                        "description": "Come posso addestrare il mio cane a smettere di saltare addosso alle persone?",
+                        "question": "Come posso addestrare il mio cane a smettere di saltare addosso alle persone?"
+                    },
+                    {
+                        "title": "Comandi di base",
+                        "description": "Qual è il modo migliore per insegnare al mio cane i comandi di base come sedersi, restare e venire?",
+                        "question": "Qual è il modo migliore per insegnare al mio cane i comandi di base come sedersi, restare e venire?"
+                    },
+                    {
+                        "title": "Abbaiare eccessivamente",
+                        "description": "Come posso impedire al mio cane di abbaiare eccessivamente?",
+                        "question": "Come posso impedire al mio cane di abbaiare eccessivamente?"
+                    },
+                    {
+                        "title": "Treno del vasino",
+                        "description": "Quali sono alcuni modi efficaci per addestrare il mio cane al vasino?",
+                        "question": "Quali sono alcuni modi efficaci per addestrare il mio cane al vasino?"
+                    },
+                    {
+                        "title": "Non pregare",
+                        "description": "Qual è il modo migliore per addestrare il mio cane a non mendicare il cibo a tavola?",
+                        "question": "Qual è il modo migliore per addestrare il mio cane a non mendicare il cibo a tavola?"
+                    }
+                ]
+            },
+            {
+                "name": "Salute e benessere",
+                "category_data": [
+                    {
+                        "title": "Cane sano",
+                        "description": "Quali sono i segni di un cane sano e come posso sapere se il mio cane è malato?",
+                        "question": "Quali sono i segni di un cane sano e come posso sapere se il mio cane è malato?"
+                    },
+                    {
+                        "title": "Problemi di salute",
+                        "description": "Quali sono alcuni problemi di salute comuni che colpiscono i cani e come posso prevenirli o curarli?",
+                        "question": "Quali sono alcuni problemi di salute comuni che colpiscono i cani e come posso prevenirli o curarli?"
+                    },
+                    {
+                        "title": "Sovrappeso",
+                        "description": "Come posso sapere se il mio cane è in sovrappeso e cosa posso fare per aiutarlo a perdere peso?",
+                        "question": "Come posso sapere se il mio cane è in sovrappeso e cosa posso fare per aiutarlo a perdere peso?"
+                    }
+                ]
+            },
+            {
+                "name": "Viaggio e avventura",
+                "category_data": [
+                    {
+                        "title": "Lunga strada",
+                        "description": "Come preparo il mio cane per un lungo viaggio?",
+                        "question": "Come preparo il mio cane per un lungo viaggio?"
+                    },
+                    {
+                        "title": "Cane al sicuro",
+                        "description": "Come tengo al sicuro il mio cane durante le escursioni o il campeggio?",
+                        "question": "Come tengo al sicuro il mio cane durante le escursioni o il campeggio?"
+                    },
+                    {
+                        "title": "Posizione migliore",
+                        "description": "Quali sono le migliori attrazioni per cani da visitare?",
+                        "question": "Quali sono le migliori attrazioni per cani da visitare?"
+                    },
+                    {
+                        "title": "Miglior all'aperto",
+                        "description": "Quali sono le migliori attività all'aperto da fare con il mio cane?",
+                        "question": "Quali sono le migliori attività all'aperto da fare con il mio cane?"
+                    }
+                ]
+            },
+            {
+                "name": "Salvataggio e adozione",
+                "category_data": [{
+                    "title": "Considera l'adozione",
+                    "description": "Cosa devo considerare prima di adottare un cane?",
+                    "question": "Cosa devo considerare prima di adottare un cane?"
+                }, {
+                    "title": "Rifugio per animali",
+                    "description": "Quali domande devo porre al rifugio per animali o all'organizzazione di soccorso prima di adottare un cane?",
+                    "question": "Quali domande devo porre al rifugio per animali o all'organizzazione di soccorso prima di adottare un cane?"
+                }, {
+                    "title": "Preparazione a casa",
+                    "description": "Come posso preparare la mia casa per un cane appena adottato?",
+                    "question": "Come posso preparare la mia casa per un cane appena adottato?"
+                }, {
+                    "title": "Indietro Animale",
+                    "description": "Come posso restituire qualcosa ai rifugi per animali e alle organizzazioni di soccorso nella mia comunità?",
+                    "question": "Come posso restituire qualcosa ai rifugi per animali e alle organizzazioni di soccorso nella mia comunità?"
+                }]
+            }
+        ]
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "ChatGPT": {
+        "Category": [
+            {
+                "name": "Planowanie podróży",
+                "category_data": [
+                    {
+                        "title": "Najlepsza lokalizacja",
+                        "description": "Jakie cele podróży są najlepsze dla mojego budżetu i zainteresowań?",
+                        "question": "Jakie cele podróży najlepiej pasują do mojego budżetu i zainteresowań?"
+                    },
+                    {
+                        "title": "Podróż spersonalizowana",
+                        "description": "Jak mogę stworzyć spersonalizowany plan podróży, który pasuje do mojego harmonogramu i preferencji?",
+                        "question": "Jak mogę stworzyć spersonalizowany plan podróży, który pasuje do mojego harmonogramu i preferencji?"
+                    },
+                    {
+                        "title": "Oszczędzaj pieniądze",
+                        "description": "Jak mogę zaoszczędzić pieniądze na podróży dzięki ofertom i zniżkom?",
+                        "question": "Jak mogę zaoszczędzić pieniądze na podróży dzięki ofertom i zniżkom?"
+                    },
+                    {
+                        "title": "Rezerwacja",
+                        "description": "Jakie są najważniejsze atrakcje, restauracje i wydarzenia w moim miejscu docelowym i jak mogę zarezerwować rezerwację z wyprzedzeniem?",
+                        "question": "Jakie są najważniejsze atrakcje, restauracje i wydarzenia w moim miejscu docelowym i jak mogę zarezerwować rezerwację z wyprzedzeniem?"
+                    },
+                    {
+                        "title": "Połącz",
+                        "description": "Jak mogę pozostać w kontakcie z towarzyszami podróży podczas podróży?",
+                        "question": "Jak mogę pozostać w kontakcie z towarzyszami podróży podczas podróży?"
+                    }
+                ]
+            },
+            {
+                "name": "Śledzenie lotu",
+                "category_data": [
+                    {
+                        "title": "Najtańsze loty",
+                        "description": "Jakie są najtańsze dostępne loty do mojego miejsca docelowego?",
+                        "question": "Jakie są najtańsze dostępne loty do mojego miejsca docelowego?"
+                    },
+                    {
+                        "title": "Usługi lotniskowe",
+                        "description": "Jakie udogodnienia i usługi dostępne są na moich lotniskach wylotu i przylotu?",
+                        "question": "Jakie udogodnienia i usługi dostępne są na moich lotniskach wylotu i przylotu?"
+                    },
+                    {
+                        "title": "Loty alternatywne",
+                        "description": "Jak mogę znaleźć alternatywne loty, jeśli mój pierwotny lot został odwołany lub opóźniony?",
+                        "question": "Jak mogę znaleźć alternatywne loty, jeśli mój pierwotny lot został odwołany lub opóźniony?"
+                    }
+                ]
+            },
+            {
+                "name": "Udostępnianie planu podróży",
+                "category_data": [
+                    {
+                        "title": "Współpracuj",
+                        "description": "Jak mogę współpracować z moimi towarzyszami podróży, aby zaplanować i zorganizować naszą podróż?",
+                        "question": "Jak mogę współpracować z moimi towarzyszami podróży, aby zaplanować i zorganizować naszą podróż?"
+                    },
+                    {
+                        "title": "Aktualizacje w czasie rzeczywistym",
+                        "description": "Jak mogę otrzymywać aktualizacje w czasie rzeczywistym na temat planów podróży moich towarzyszy podróży i zmian w naszym planie podróży?",
+                        "question": "Jak mogę otrzymywać aktualne informacje o planach podróży moich towarzyszy podróży i zmianach w naszym planie podróży w czasie rzeczywistym?"
+                    },
+                    {
+                        "title": "Połączenie offline",
+                        "description": "Jak mogę uzyskać dostęp do mojego planu podróży i współpracować z towarzyszami podróży offline, jeśli nie mam dostępu do internetu?",
+                        "question": "Jak mogę uzyskać dostęp do mojego planu podróży i współpracować z towarzyszami podróży w trybie offline, jeśli nie mam dostępu do Internetu?"
+                    },
+                    {
+                        "title": "Ostatnia aktualizacja",
+                        "description": "Jak mogę zapewnić, że wszyscy w mojej grupie podróżniczej są na bieżąco z najnowszymi informacjami dotyczącymi podróży i zmianami w naszym planie podróży?",
+                        "question": "Jak mogę zapewnić, że wszyscy w mojej grupie podróżniczej są na bieżąco z najnowszymi informacjami dotyczącymi podróży i zmianami w naszym planie podróży?"
+                    }
+                ]
+            },
+            {
+                "name": "Ubezpieczenie podróżne",
+                "category_data": [{
+                    "title": "Opcje ubezpieczenia",
+                    "description": "Jakie opcje ubezpieczenia podróżnego są dostępne dla mojej podróży i co obejmują?",
+                    "question": "Jakie opcje ubezpieczenia podróżnego są dostępne dla mojej podróży i co one obejmują?"
+                }, {
+                    "title": "Zagrożenia bezpieczeństwa",
+                    "description": "Jakie są zagrożenia dla bezpieczeństwa w moim miejscu docelowym i jak mogę je zminimalizować?",
+                    "question": "Jakie są zagrożenia dla bezpieczeństwa w moim miejscu docelowym i jak mogę je zminimalizować?"
+                }, {
+                    "title": "Informacje o utworze",
+                    "description": "Jak mogę śledzić moje ważne dokumenty podróżne i informacje, takie jak paszporty, wizy i polisy ubezpieczeniowe?",
+                    "question": "Jak mogę śledzić moje ważne dokumenty podróżne i informacje, takie jak paszporty, wizy i polisy ubezpieczeniowe?"
+                }, {
+                    "title": "Zgłoś problem",
+                    "description": "Jak mogę zgłosić wszelkie obawy lub incydenty związane z bezpieczeństwem lub ochroną odpowiednim władzom lub mojemu ubezpieczycielowi podróżnemu?",
+                    "question": "Jak mogę zgłosić wszelkie obawy lub incydenty związane z bezpieczeństwem lub ochroną odpowiednim władzom lub mojemu ubezpieczycielowi podróżnemu?"
+                }]
+            }
+        ]
+    }
+}

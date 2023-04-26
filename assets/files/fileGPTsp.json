@@ -1,0 +1,101 @@
+{
+    "ChatGPT": {
+        "Category": [
+            {
+                "name": "Entrenamiento y Comportamiento",
+                "category_data": [
+                    {
+                        "title": "Deja de saltar",
+                        "description": "Cómo puedo entrenar a mi perro para que deje de saltar sobre las personas?",
+                        "question": "Cómo puedo entrenar a mi perro para que deje de saltar sobre las personas?"
+                    },
+                    {
+                        "title": "Comandos básicos",
+                        "description": "Cuál es la mejor manera de enseñarle a mi perro comandos básicos como sentarse, quedarse quieto y venir?",
+                        "question": "Cuál es la mejor manera de enseñarle a mi perro comandos básicos como sentarse, quedarse quieto y venir?"
+                    },
+                    {
+                        "title": "ladrar en exceso",
+                        "description": "Cómo puedo evitar que mi perro ladre en exceso?",
+                        "question": "Cómo puedo evitar que mi perro ladre en exceso?"
+                    },
+                    {
+                        "title": "tren para ir al baño",
+                        "description": "Cuáles son algunas formas efectivas de entrenar a mi perro para ir al baño?",
+                        "question": "Cuáles son algunas formas efectivas de entrenar a mi perro para ir al baño?"
+                    },
+                    {
+                        "title": "no rogar",
+                        "description": "Cuál es la mejor manera de entrenar a mi perro para que no pida comida en la mesa?",
+                        "question": "Cuál es la mejor manera de entrenar a mi perro para que no pida comida en la mesa?"
+                    }
+                ]
+            },
+            {
+                "name": "Salud y Bienestar",
+                "category_data": [
+                    {
+                        "title": "perro sano",
+                        "description": "Cuáles son los signos de un perro sano y cómo puedo saber si mi perro está enfermo?",
+                        "question": "Cuáles son los signos de un perro sano y cómo puedo saber si mi perro está enfermo?"
+                    },
+                    {
+                        "title": "Problemas de salud",
+                        "description": "Cuáles son algunos problemas de salud comunes que afectan a los perros y cómo puedo prevenirlos o tratarlos?",
+                        "question": "Cuáles son algunos problemas de salud comunes que afectan a los perros y cómo puedo prevenirlos o tratarlos?"
+                    },
+                    {
+                        "title": "Exceso de peso",
+                        "description": "Cómo puedo saber si mi perro tiene sobrepeso y qué puedo hacer para ayudarlo a perder peso?",
+                        "question": "Cómo puedo saber si mi perro tiene sobrepeso y qué puedo hacer para ayudarlo a perder peso?"
+                    }
+                ]
+            },
+            {
+                "name": "Viajes y Aventura",
+                "category_data": [
+                    {
+                        "title": "Largo camino",
+                        "description": "Cómo preparo a mi perro para un viaje largo por carretera?",
+                        "question": "Cómo preparo a mi perro para un viaje largo por carretera?"
+                    },
+                    {
+                        "title": "Perro segura",
+                        "description": "Cómo mantengo a mi perro seguro mientras voy de excursión o de campamento?",
+                        "question": "Cómo mantengo a mi perro seguro mientras voy de excursión o de campamento?"
+                    },
+                    {
+                        "title": "Mejor ubicación",
+                        "description": "Cuáles son las mejores atracciones para perros para visitar?",
+                        "question": "Cuáles son las mejores atracciones para perros para visitar?"
+                    },
+                    {
+                        "title": "Mejor al aire libre",
+                        "description": "Cuáles son las mejores actividades al aire libre para hacer con mi perro?",
+                        "question": "Cuáles son las mejores actividades al aire libre para hacer con mi perro?"
+                    }
+                ]
+            },
+            {
+                "name": "Rescate y Adopción",
+                "category_data": [{
+                    "title": "Considere adoptar",
+                    "description": "Qué debo tener en cuenta antes de adoptar un perro?",
+                    "question": "Qué debo tener en cuenta antes de adoptar un perro?"
+                }, {
+                    "title": "Refugio de animales",
+                    "description": "Qué preguntas debo hacerle al refugio de animales o a la organización de rescate antes de adoptar un perro?",
+                    "question": "Qué preguntas debo hacerle al refugio de animales o a la organización de rescate antes de adoptar un perro?"
+                }, {
+                    "title": "Inicio Preparar",
+                    "description": "Cómo puedo preparar mi casa para un perro recién adoptado?",
+                    "question": "Cómo puedo preparar mi casa para un perro recién adoptado?"
+                }, {
+                    "title": "Volver Animal",
+                    "description": "Cómo puedo retribuir a los refugios de animales y organizaciones de rescate en mi comunidad?",
+                    "question": "Cómo puedo retribuir a los refugios de animales y organizaciones de rescate en mi comunidad?"
+                }]
+            }
+        ]
+    }
+}

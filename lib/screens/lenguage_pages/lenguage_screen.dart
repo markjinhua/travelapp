@@ -29,15 +29,10 @@ class LanguageScreen extends StatelessWidget {
       'French',
       'German',
       'Chinese',
-      'Russian',
       'Hindi',
       'Arabic',
-      'Portuguese',
-      'Indonesian',
-      'Dutch',
       'Italian',
       'Polish',
-      'Turkish',
       'Japanese'
     ];
 
@@ -47,15 +42,10 @@ class LanguageScreen extends StatelessWidget {
       Locale('fre', 'FRE'),
       Locale('gem', 'GEM'),
       Locale('ch', 'CH'),
-      Locale('russ', 'RUSS'),
       Locale('hi', 'IN'),
       Locale('ar', 'AR'),
-      Locale('por', 'PORTU'),
-      Locale('indo', 'INDO'),
-      Locale('dutch', 'DUTCH'),
       Locale('ity', 'ITY'),
       Locale('polish', 'POLISH'),
-      Locale('turk', 'TURK'),
       Locale('japa', 'JAPA'),
     ];
 
@@ -65,15 +55,10 @@ class LanguageScreen extends StatelessWidget {
       'fre',
       'gem',
       'ch',
-      'russ',
       'hi',
       'ar',
-      'por',
-      'indo',
-      'dutch',
       'ity',
       'polish',
-      'turk',
       'japa',
     ];
 
@@ -83,15 +68,10 @@ class LanguageScreen extends StatelessWidget {
       'FRE',
       'GEM',
       'CH',
-      'RUSS',
       'IN',
       'AR',
-      'PORTU',
-      'INDO',
-      'DUTCH',
       'ITY',
       'POLISH',
-      'TURK',
       'JAPA'
     ];
     final BannerAd myBanner = BannerAd(
@@ -177,7 +157,7 @@ class LanguageScreen extends StatelessWidget {
                     );
                   });
                 }),
-          ).marginOnly(left: 20, right: 20, top: 10, bottom: 55),
+          ).marginOnly(left: 20, right: 20, top: 10, bottom: 105),
           showAds == false ? Container() : adContainer
         ],
       ),
