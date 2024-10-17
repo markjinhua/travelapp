@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\Works\202304project\ChatGPT_task\FlutGpt Flutter 1.4\ChatGpt(Travel)\android\app\src\main\jniLibs"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\Works\202304project\ChatGPT_task\FlutGpt Flutter 1.4\ChatGpt(Travel)\android\app\src\debug\jniLibs"/></dataSet></merger>
